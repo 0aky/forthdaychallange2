@@ -1,1 +1,4 @@
-var s = 'sad'
+(function(A,w)
+{
+  var sad = "happy";
+})(window);
