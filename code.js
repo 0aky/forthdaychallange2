@@ -1,2 +1,1 @@
-console.log('success');
-console.log('trying');
+var s = 'sad'
